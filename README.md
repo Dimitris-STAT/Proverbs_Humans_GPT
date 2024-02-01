@@ -1,0 +1,1 @@
+Proverbs_Humans_GPT.ipynb file contains a human based clustering and analysis of the clustering done by master's students on a series of Greek proverbs. A similar analysis is performed on clustering on GPT clusterings on the same proverbs, after instructed to do so. Finnally we perform a comparison: Humans vs GPT to find interesting results and patterns.
