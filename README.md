@@ -22,7 +22,3 @@ This notebook contains a human-based clustering and analysis of the clustering d
 
 ## Conclusion:
 The notebook concludes with a comprehensive analysis of the clustering results obtained from both human and GPT-based approaches. It provides insights into the strengths and weaknesses of each method and highlights potential avenues for further research or improvement.
-
-## Usage:
-This notebook serves as a tool for analyzing and comparing clustering results obtained from human and GPT-based approaches on Greek proverbs. Researchers and practitioners in the fields of natural language processing, artificial intelligence, and linguistics may find this analysis valuable for understanding the capabilities and limitations of automated text clustering methods compared to human-generated clusters.
-
